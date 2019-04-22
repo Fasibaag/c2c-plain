@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.428 148.965">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-4 {
+        stroke-linecap: round;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="accountablity" transform="translate(492 -3347.08)">
+    <rect id="Rectangle_69" data-name="Rectangle 69" class="cls-1" width="34.578" height="18.619" rx="2" transform="translate(-464.391 3357.719)"/>
+    <g id="Ellipse_46" data-name="Ellipse 46" class="cls-2" transform="translate(-456.411 3347.08)">
+      <circle class="cls-5" cx="7.98" cy="7.98" r="7.98"/>
+      <circle class="cls-6" cx="7.98" cy="7.98" r="2.98"/>
+    </g>
+    <path id="Path_110" data-name="Path 110" class="cls-2" d="M-928.982,3108.22v-33.47H-1009v131.331h80.018v-17.289" transform="translate(522 284.964)"/>
+    <g id="Rectangle_70" data-name="Rectangle 70" class="cls-3" transform="translate(-475.031 3389.638)">
+      <rect class="cls-5" width="18.619" height="23.939"/>
+      <rect class="cls-6" x="2.5" y="2.5" width="13.619" height="18.939"/>
+    </g>
+    <g id="Rectangle_71" data-name="Rectangle 71" class="cls-3" transform="translate(-475.031 3418.896)">
+      <rect class="cls-5" width="18.619" height="23.939"/>
+      <rect class="cls-6" x="2.5" y="2.5" width="13.619" height="18.939"/>
+    </g>
+    <g id="Rectangle_72" data-name="Rectangle 72" class="cls-3" transform="translate(-475.031 3448.155)">
+      <rect class="cls-5" width="18.619" height="23.939"/>
+      <rect class="cls-6" x="2.5" y="2.5" width="13.619" height="18.939"/>
+    </g>
+    <path id="Path_111" data-name="Path 111" class="cls-4" d="M-983.625,3119.213l18.655,18.654,39.428-39.428" transform="translate(551.97 309.816)"/>
+  </g>
+</svg>

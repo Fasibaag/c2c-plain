@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80.053 146.767">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 10px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Work_life_balance" data-name="Work life balance" transform="translate(1173.304 -3341.234)">
+    <g id="Ellipse_45" data-name="Ellipse 45" class="cls-1" transform="translate(-1168.304 3341.234)">
+      <circle class="cls-3" cx="35.304" cy="35.304" r="35.304"/>
+      <circle class="cls-4" cx="35.304" cy="35.304" r="30.304"/>
+    </g>
+    <path id="Path_108" data-name="Path 108" class="cls-2" d="M-1398,3101.093s27.043,25.983,70.053,0" transform="translate(229.696 320.381)"/>
+    <path id="Path_109" data-name="Path 109" class="cls-2" d="M-1395.63,3151.837l29.811-44.518,31.6,44.518" transform="translate(232.905 331.163)"/>
+  </g>
+</svg>

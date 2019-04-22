@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172.242 110.909">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linejoin: round;
+        stroke-width: 9px;
+      }
+    </style>
+  </defs>
+  <g id="Value_creation" data-name="Value creation" transform="translate(-246.222 -2484.424)">
+    <path id="Path_97" data-name="Path 97" class="cls-1" d="M0,18.232,21.692,0V74.935H0Z" transform="translate(365.485 2520.398)"/>
+    <path id="Path_101" data-name="Path 101" class="cls-1" d="M0,11.854,21.692,0V48.722H0Z" transform="translate(263.322 2546.612)"/>
+    <path id="Path_98" data-name="Path 98" class="cls-1" d="M0,17.293,21.692,0V55.706H0Z" transform="translate(339.932 2539.628)"/>
+    <path id="Path_99" data-name="Path 99" class="cls-1" d="M0,0S11.238,3.991,10.363,3.786c.856.3-1.654,0,0,0C15.785,3.786,21.692,0,21.692,0V35.087H0Z" transform="translate(314.38 2560.246)"/>
+    <path id="Path_100" data-name="Path 100" class="cls-1" d="M0,6.984,12.078,0l9.613,12.3v43.4H0Z" transform="translate(288.827 2539.628)"/>
+    <path id="Path_102" data-name="Path 102" class="cls-2" d="M-1750.264,2936.381l53.3-30.625,22.834,30.625,77.242-55.2" transform="translate(1998.727 -382.121)"/>
+    <path id="Path_103" data-name="Path 103" class="cls-1" d="M-1665.825,2891.383l13.3,20.95,8.979-38.575h-35.583Z" transform="translate(2062.008 -389.333)"/>
+  </g>
+</svg>
