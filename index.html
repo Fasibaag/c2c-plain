@@ -13,28 +13,42 @@
 </head>
 
 <body>
-   
+
     <header>
         <div class="header-container">
-            <div class="menu"><span style="font-size: 36px; color: rgb(241, 121, 50);">
+            <div class="menu"><span>
                     <i class="fas fa-bars"></i>
                 </span></i></div>
             <div id='logo'>
-                <img class="logo_image" src="./logo.png" alt="">
+                <a href="index.html"><img class="logo_image" src="./logo.png" alt=""></a>
             </div>
             <div class="menu-list">
-                    <ul class="header-list">
-                            <li id='home'><a>Home</a></li>
-                            <li id='services'> <a>About Us</a> </li>
-                            <li id='about'><a>Services</a></li>
-                            <li id='testimonal'><a>Testimonals</a></li>
-                            <li id='careers'><a>Careers</a></li>
-                        </ul>
+                <ul class="header-list">
+                    <li class="active"><a id='home' href="index.html">Home</a></li>
+                    <li><a id='about' href="aboutUs.html">About Us</a> </li>
+                    <li><a id='services' href="services.html">Services</a></li>
+                    <li><a id='testimonal' href="#">Testimonals</a></li>
+                    <li><a id='careers' href="#">Careers</a></li>
+                </ul>
+            </div>
+            <div class="sideBar-menu">    
+                <div class="menu-list-mob">
+                        <div class="closeIcon"><span>
+                                <i class="fas fa-times"></i>
+                            </span></i></div>
+                    <ul class="header-list-mob">
+                        <li class="active"><a id='home' href="index.html">Home</a></li>
+                        <li><a id='about' href="aboutUs.html">About Us</a> </li>
+                        <li><a id='services' href="services.html">Services</a></li>
+                        <li><a id='testimonal' href="#">Testimonals</a></li>
+                        <li><a id='careers' href="#">Careers</a></li>
+                    </ul>
+                </div>
             </div>
         </div>
         <div class="divider"></div>
     </header>
-    <div id='slider' class="owl-carousel owl-theme">
+    <div class="banner owl-carousel owl-theme">
 
         <div class="item slider1">
             <div class="description-wrapper">
@@ -59,7 +73,7 @@
                     </div>
                     <div class="apply-now">
                         <a href="#" class="link">
-                            Apple Now
+                            Apply Now
                         </a>
                     </div>
                 </div>
@@ -197,10 +211,10 @@
                 <div class="social-icons">
                     <img id='social-img' src="./social.png" alt="Social Links" usemap="#planetmap">
                     <map name="planetmap">
-                            <area shape="rect" coords="0,0,82,126" href="sun.html" alt="Sun">
-                            <area shape="circle" coords="90,58,3" href="mer.html" alt="Mercury">
-                            <area shape="circle" coords="124,58,8" href="ven.html" alt="Venus">
-                          </map>
+                        <area shape="rect" coords="0,0,82,126" href="sun.html" alt="Sun">
+                        <area shape="circle" coords="90,58,3" href="mer.html" alt="Mercury">
+                        <area shape="circle" coords="124,58,8" href="ven.html" alt="Venus">
+                    </map>
                 </div>
             </div>
             <div class="address">
