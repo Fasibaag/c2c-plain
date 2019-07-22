@@ -957,35 +957,43 @@ div.industry-practice{
   .sideBar-menu{
     display: none;
   }
+  .menu-list-mob {
+    background: #ffffff;
+    z-index: 9;
+    width: 0;
+    height: 100vh;
+  }
+  
+  ul.header-list-mob{
+    text-align: center;
+    overflow-x: hidden;
+    transition: 0.5s;
+  }
+  ul.header-list-mob>li {
+    padding: 1rem;
+    transition: 0.5s;
+    font-weight: bold;
+    font-family: 'Montserrat-Medium', 'sans-serif';
+  }
+  
+  .sideBar-menu {
+    width: 100%;
+    background: rgba(128, 128, 128, 0.24);
+    height: 100vh;
+    position: absolute;
+    z-index: 99;
+    top: 0px;
+  }
 }
 
 
-.menu-list-mob {
-  background: #ffffff;
-  z-index: 9;
-  width: 0;
-  height: 100vh;
-}
 
-ul.header-list-mob{
-  text-align: center;
-  overflow-x: hidden;
-  transition: 0.5s;
-}
-ul.header-list-mob>li {
-  padding: 1rem;
-  transition: 0.5s;
-}
+@media all and (min-width: 601px) {
+  .sideBar-menu{
+    display: none;
+  }
 
-.sideBar-menu {
-  width: 100%;
-  background: rgba(128, 128, 128, 0.24);
-  height: 100vh;
-  position: absolute;
-  z-index: 99;
-  top: 0px;
-}
-
-.show{
-  display:block;
+  .menu{
+    display: none;
+  }
 }

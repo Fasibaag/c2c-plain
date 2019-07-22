@@ -26,17 +26,27 @@ $('.menu').click(function () {
 })
 
 $('.closeIcon').click(function () {
+    closeSideBar();
+});
+
+
+$(document).click(function (event) {
+    //if you click on anything except the modal itself or the "open modal" link, close the modal
+    if (!$(event.target).closest(".menu-list-mob, .menu").length) {
+        closeSideBar();
+    }
+});
+
+
+function closeSideBar() {
     var menuList = document.querySelector('.sideBar-menu');
     var body = document.querySelector('body');
-    $( ".menu-list-mob" ).animate({
+    $(".menu-list-mob").animate({
         width: "0px"
-      }, function() {
+    }, function () {
         if (menuList.style.display !== 'none') {
             menuList.style.display = 'none';
         }
-      });
-
-
-
+    });
     body.classList.remove('overflow');
-});
+}
